@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trophytrp fmt_ver="3" attribute="2" service_label="0">
+ <file name="TROPCONF.SFM" path="">
+  <trophyconf version="1.1" platform="ps4" policy="large">
+   <npcommid>AAAA00000_00</npcommid>
+   <trophyset-version>01.00</trophyset-version>
+   <trophy id="000" hidden="no" ttype="P" pid="-1"/>
+   <trophy id="001" hidden="no" ttype="S" pid="000"/>
+   <trophy id="002" hidden="no" ttype="S" pid="000"/>
+   <trophy id="003" hidden="no" ttype="S" pid="000"/>
+   <trophy id="004" hidden="no" ttype="S" pid="000"/>
+   <trophy id="005" hidden="no" ttype="S" pid="000"/>
+   <trophy id="006" hidden="no" ttype="S" pid="000"/>
+   <trophy id="007" hidden="no" ttype="S" pid="000"/>
+   <trophy id="008" hidden="no" ttype="S" pid="000"/>
+   <trophy id="009" hidden="no" ttype="S" pid="000"/>
+   <trophy id="010" hidden="no" ttype="S" pid="000"/>
+   <trophy id="011" hidden="no" ttype="S" pid="000"/>
+   <trophy id="012" hidden="no" ttype="S" pid="000"/>
+   <trophy id="013" hidden="no" ttype="S" pid="000"/>
+   <trophy id="014" hidden="no" ttype="S" pid="000"/>
+   <trophy id="015" hidden="no" ttype="G" pid="000"/>
+   <trophy id="016" hidden="no" ttype="G" pid="000"/>
+   <trophy id="017" hidden="no" ttype="G" pid="000"/>
+   <trophy id="018" hidden="no" ttype="G" pid="000"/>
+   <trophy id="019" hidden="no" ttype="G" pid="000"/>
+   <trophy id="020" hidden="no" ttype="G" pid="000"/>
+   <trophy id="021" hidden="no" ttype="G" pid="000"/>
+  </trophyconf>
+ </file>
+ <file name="TROP.SFM" path="">
+  <trophyconf version="1.1" platform="ps4" policy="large">
+   <title-name>Supermarket simulator 2024</title-name>
+   <title-detail>Supermarket simulator 2024</title-detail>
+   <trophy id="000">
+    <name>Businessman</name>
+    <detail>Unlock all trophies in Supermarket Simulator 2024</detail>
+   </trophy>
+   <trophy id="001">
+    <name>Level1</name>
+    <detail>Finish working day 1 </detail>
+   </trophy>
+   <trophy id="002">
+    <name>Level2</name>
+    <detail>Finish working day 2</detail>
+   </trophy>
+   <trophy id="003">
+    <name>Level3</name>
+    <detail>Finish working day 3</detail>
+   </trophy>
+   <trophy id="004">
+    <name>Level4</name>
+    <detail>Finish working day 4</detail>
+   </trophy>
+   <trophy id="005">
+    <name>Level5</name>
+    <detail>Finish working day 5</detail>
+   </trophy>
+   <trophy id="006">
+    <name>Level6</name>
+    <detail>Finish working day 6</detail>
+   </trophy>
+   <trophy id="007">
+    <name>Level7</name>
+    <detail>Finish working day 7</detail>
+   </trophy>
+   <trophy id="008">
+    <name>Level8</name>
+    <detail>Finish working day 8</detail>
+   </trophy>
+   <trophy id="009">
+    <name>Level9</name>
+    <detail>Finish working day 9</detail>
+   </trophy>
+   <trophy id="010">
+    <name>Level10</name>
+    <detail>Finish working day 10</detail>
+   </trophy>
+   <trophy id="011">
+    <name>Level11</name>
+    <detail>Finish working day 11</detail>
+   </trophy>
+   <trophy id="012">
+    <name>Level12</name>
+    <detail>Finish working day 12</detail>
+   </trophy>
+   <trophy id="013">
+    <name>Level13</name>
+    <detail>Finish working day 13</detail>
+   </trophy>
+   <trophy id="014">
+    <name>Level14</name>
+    <detail>Finish working day 14</detail>
+   </trophy>
+   <trophy id="015">
+    <name>Level15</name>
+    <detail>Finish working day 15</detail>
+   </trophy>
+   <trophy id="016">
+    <name>Level16</name>
+    <detail>Finish working day 16</detail>
+   </trophy>
+   <trophy id="017">
+    <name>Level17</name>
+    <detail>Finish working day 17</detail>
+   </trophy>
+   <trophy id="018">
+    <name>Level18</name>
+    <detail>Finish working day 18</detail>
+   </trophy>
+   <trophy id="019">
+    <name>Level19</name>
+    <detail>Finish working day 19</detail>
+   </trophy>
+   <trophy id="020">
+    <name>Level20</name>
+    <detail>Finish working day 20</detail>
+   </trophy>
+   <trophy id="021">
+    <name>Level21</name>
+    <detail>Finish working day 21</detail>
+   </trophy>
+  </trophyconf>
+ </file>
+ <file name="ICON0.PNG" path="ICON0.PNG" />
+ <file name="TROP000.PNG" path="TROP000.PNG" />
+ <file name="TROP001.PNG" path="TROP001.PNG" />
+ <file name="TROP002.PNG" path="TROP002.PNG" />
+ <file name="TROP003.PNG" path="TROP003.PNG" />
+ <file name="TROP004.PNG" path="TROP004.PNG" />
+ <file name="TROP005.PNG" path="TROP005.PNG" />
+ <file name="TROP006.PNG" path="TROP006.PNG" />
+ <file name="TROP007.PNG" path="TROP007.PNG" />
+ <file name="TROP008.PNG" path="TROP008.PNG" />
+ <file name="TROP009.PNG" path="TROP009.PNG" />
+ <file name="TROP010.PNG" path="TROP010.PNG" />
+ <file name="TROP011.PNG" path="TROP011.PNG" />
+ <file name="TROP012.PNG" path="TROP012.PNG" />
+ <file name="TROP013.PNG" path="TROP013.PNG" />
+ <file name="TROP014.PNG" path="TROP014.PNG" />
+ <file name="TROP015.PNG" path="TROP015.PNG" />
+ <file name="TROP016.PNG" path="TROP016.PNG" />
+ <file name="TROP017.PNG" path="TROP017.PNG" />
+ <file name="TROP018.PNG" path="TROP018.PNG" />
+ <file name="TROP019.PNG" path="TROP019.PNG" />
+ <file name="TROP020.PNG" path="TROP020.PNG" />
+ <file name="TROP021.PNG" path="TROP021.PNG" />
+</trophytrp>

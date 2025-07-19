@@ -1,0 +1,88 @@
+{
+    "AchievementMap": {
+        "Level1": {
+            "TrophyId": 1,
+            "Type": "AutomaticUnlock"
+        },
+        "Level2": {
+            "TrophyId": 2,
+            "Type": "AutomaticUnlock"
+        },
+        "Level3": {
+            "TrophyId": 3,
+            "Type": "AutomaticUnlock"
+        },
+        "Level4": {
+            "TrophyId": 4,
+            "Type": "AutomaticUnlock"
+        },
+        "Level5": {
+            "TrophyId": 5,
+            "Type": "AutomaticUnlock"
+        },
+        "Level6": {
+            "TrophyId": 6,
+            "Type": "AutomaticUnlock"
+        },
+        "Level7": {
+            "TrophyId": 7,
+            "Type": "AutomaticUnlock"
+        },
+        "Level8": {
+            "TrophyId": 8,
+            "Type": "AutomaticUnlock"
+        },
+        "Level9": {
+            "TrophyId": 9,
+            "Type": "AutomaticUnlock"
+        },
+        "Level10": {
+            "TrophyId": 10,
+            "Type": "AutomaticUnlock"
+        },
+        "Level11": {
+            "TrophyId": 11,
+            "Type": "AutomaticUnlock"
+        },
+        "Level12": {
+            "TrophyId": 12,
+            "Type": "AutomaticUnlock"
+        },
+        "Level13": {
+            "TrophyId": 13,
+            "Type": "AutomaticUnlock"
+        },
+        "Level14": {
+            "TrophyId": 14,
+            "Type": "AutomaticUnlock"
+        },
+        "Level15": {
+            "TrophyId": 15,
+            "Type": "AutomaticUnlock"
+        },
+        "Level16": {
+            "TrophyId": 16,
+            "Type": "AutomaticUnlock"
+        },
+        "Level17": {
+            "TrophyId": 17,
+            "Type": "AutomaticUnlock"
+        },
+        "Level18": {
+            "TrophyId": 18,
+            "Type": "AutomaticUnlock"
+        },
+        "Level19": {
+            "TrophyId": 19,
+            "Type": "AutomaticUnlock"
+        },
+        "Level20": {
+            "TrophyId": 20,
+            "Type": "AutomaticUnlock"
+        },
+        "Level21": {
+            "TrophyId": 21,
+            "Type": "AutomaticUnlock"
+        }
+    }
+}
